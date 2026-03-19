@@ -13,6 +13,7 @@ Esta disciplina tem como objetivo introduzir os fundamentos da lógica, essencia
 - Atividades
 - Exercícios práticos de lógica proposicional
 - Construção de tabelas verdade
+```
 
 📁 Estrutura do Repositório
 SIS26-002/
@@ -22,3 +23,4 @@ SIS26-002/
 
 Caso tenha dúvidas ou sugestões, entre em contato:
 Professor: Dr. Dorival M. Machado Junior
+```
