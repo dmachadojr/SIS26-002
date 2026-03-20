@@ -1,6 +1,6 @@
 # Crie um código que:
 #  - receba 5 itens, 
-#  - faça a ordenação da lista e exiba
+#  - faça a ordenação da lista
 #  - exiba a lista ordenada
 #  - crie uma segunda lista que contenha a lista1 invertida.
 
