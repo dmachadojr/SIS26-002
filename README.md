@@ -2,9 +2,11 @@
 
 Bem-vindo ao repositório da disciplina Introdução à Lógica do curso de Sistemas da Informação - Libertas - Faculdades Integradas.
 
+
 📌 Sobre a Disciplina
 
 Esta disciplina tem como objetivo introduzir os fundamentos da lógica, essenciais para o desenvolvimento do raciocínio computacional. Serão abordados conceitos como proposições, conectivos lógicos, tabelas verdade, equivalência lógica e resolução de problemas utilizando lógica formal.
+
 
 📚 Material de apoio (alguns aqui, outros no portal Libertas)
 
@@ -14,6 +16,7 @@ Esta disciplina tem como objetivo introduzir os fundamentos da lógica, essencia
 - Atividades
 - Exercícios práticos de lógica proposicional
 - Construção de tabelas verdade
+
 ```
 
 📁 Estrutura do Repositório
