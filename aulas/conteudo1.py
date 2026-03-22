@@ -19,3 +19,24 @@ list(range(-10,11,2))
 
 # 6 Para que o resultado acima seja realmente impresso para o usuário, basta incluir um "print":
 print(list(range(-10,11,2)))
+
+# 7 Invertendo o conteúdo de uma lista:
+lista.reverse()
+print(lista)
+
+# 8 Criando uma nova variável x que recebe os números pares entre 0 e 21:
+x = list(range(0,21,2))
+print(x)
+
+# 9 É possível transformar uma sequência de caracteres em uma lista:
+y=list('hello world')
+print(y)
+
+# 10 Também é possível apenas imprimir uma lista de maneira invertida, sem alterar seu conteúdo.
+# importante: isso não é uma ordenação, apenas inverte a ordem
+print(y[::-1])
+print(y)
+
+# 11 É possível criar uma nova lista, inicializando-a sem nenhum conteúdo:
+A = []
+
