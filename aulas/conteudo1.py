@@ -199,3 +199,10 @@ lista = [1,2,3]
 print(lista)
 lista.clear()
 print(lista)
+
+# 22 BONUS: escrever em negrito no terminal
+print("\033[1mEste texto está em negrito\033[0m")
+print("Este texto está normal")
+
+nome = 'Jarvis'
+print(f'O nome informado é \033[1m{nome}\033[0m')
